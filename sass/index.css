@@ -77,7 +77,7 @@
 .sec-b {
   margin-top: 5%;
   height: 100vh;
-  background-image: url(/images/bg-curve-desktop.svg);
+  background-image: url(../images/bg-curve-desktop.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -293,7 +293,7 @@
     margin-bottom: 15%;
     height: -moz-max-content;
     height: max-content;
-    background-image: url(/images/bg-curve-mobile.svg);
+    background-image: url(../images/bg-curve-mobile.svg);
   }
   .sec-b .b2 {
     width: 100%;
